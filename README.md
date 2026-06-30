@@ -1,5 +1,7 @@
 # 🍽️ Swiggy Product Dissection & Database Design
 
+### Business Analysis | Database Schema Design | Entity Relationship Modeling
+
 A comprehensive case study of **Swiggy**, one of India's leading hyperlocal commerce platforms. This project analyzes Swiggy's business model, key product features, real-world problems it solves, and the database schema that powers its operations.
 
 ---
