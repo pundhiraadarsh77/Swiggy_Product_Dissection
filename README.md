@@ -1,4 +1,4 @@
-# 🍽️ Swiggy Product Dissection & Database Design
+# Swiggy Product Dissection & Database Design
 
 ### Business Analysis | Database Schema Design | Entity Relationship Modeling
 
@@ -6,7 +6,7 @@ A comprehensive case study of **Swiggy**, one of India's leading hyperlocal comm
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Swiggy has transformed food delivery and quick commerce in India by connecting customers, restaurants, and delivery partners through a technology-driven platform.
 
@@ -14,7 +14,7 @@ This project dissects the product from both **business** and **database design**
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Understand Swiggy's business model and ecosystem
 - Identify real-world problems addressed by the platform
@@ -25,7 +25,7 @@ This project dissects the product from both **business** and **database design**
 
 ---
 
-## 🚀 Business Problems Solved
+## Business Problems Solved
 
 - Convenient online food ordering
 - Real-time order tracking
@@ -36,7 +36,7 @@ This project dissects the product from both **business** and **database design**
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - User Accounts & Profiles
 - Restaurant Search & Discovery
@@ -48,7 +48,7 @@ This project dissects the product from both **business** and **database design**
 
 ---
 
-## 🗄️ Database Schema
+## Database Schema
 
 The proposed database consists of the following entities:
 
@@ -66,7 +66,7 @@ The schema is designed to efficiently manage customer orders, restaurant operati
 
 ---
 
-## 🔗 Entity Relationships
+## Entity Relationships
 
 Some of the key relationships include:
 
@@ -79,7 +79,7 @@ Some of the key relationships include:
 
 ---
 
-## 📊 ER Diagram
+## ER Diagram
 
 
 The following Entity-Relationship (ER) diagram illustrates the conceptual database design for the Swiggy platform. It visualizes the core entities, their attributes, and the relationships that support key operations such as user management, restaurant listings, order processing, payments, deliveries, and customer reviews.
@@ -88,7 +88,7 @@ The following Entity-Relationship (ER) diagram illustrates the conceptual databa
 
 ---
 
-## 🛠️ Tools & Concepts Used
+## Tools & Concepts Used
 
 - Database Design
 - Entity-Relationship (ER) Modeling
@@ -99,7 +99,7 @@ The following Entity-Relationship (ER) diagram illustrates the conceptual databa
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 
 | File | Description |
 |------|-------------|
@@ -109,7 +109,7 @@ The following Entity-Relationship (ER) diagram illustrates the conceptual databa
 
 ---
 
-## 🎓 Skills Demonstrated
+## Skills Demonstrated
 
 - Product Thinking
 - Business Analysis
@@ -120,13 +120,13 @@ The following Entity-Relationship (ER) diagram illustrates the conceptual databa
 
 ---
 
-## 📜 Disclaimer
+## Disclaimer
 
 This project is created for educational and portfolio purposes. Swiggy is a registered trademark of its respective owners. The database schema presented here is a conceptual design based on publicly available information and is not the company's actual production database.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Aadarsh Pundhir**
 
