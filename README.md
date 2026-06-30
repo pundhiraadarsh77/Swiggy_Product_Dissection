@@ -79,9 +79,12 @@ Some of the key relationships include:
 
 ## 📊 ER Diagram
 
-The project also includes an Entity-Relationship (ER) Diagram illustrating the relationships between all entities in the database.
 
-> *(Insert the ER Diagram image here once uploaded.)*
+The following Entity-Relationship (ER) diagram illustrates the conceptual database design for the Swiggy platform. It visualizes the core entities, their attributes, and the relationships that support key operations such as user management, restaurant listings, order processing, payments, deliveries, and customer reviews.
+
+<p align="center">
+  <img src="images/ER Diagram.png" width="900">
+</p>
 
 ---
 
